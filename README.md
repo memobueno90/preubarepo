@@ -1,2 +1,2 @@
-# preubarepo
+# pruearepo
 primera prueba de repo
